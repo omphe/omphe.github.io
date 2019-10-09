@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "Welcome to Jekyll!"
 date:   2019-10-08 23:37:58 +0100
 categories: jekyll update
