@@ -7,7 +7,7 @@ categories:
 
 Today is the 100th day of this grand experiment I set off on when I left full time employment in September. If I'm honest, I'm not where I thought I'd be after three months, but that's mostly down to grand expectations and a habit for overcommitment.  Of all I learned this Autumn, it has mostly been about the reach of my aptitudes and ambitions.
 
-Although my [first post](/blog/2014/09/02/force-of-habit-a-100-day-personal-creative-revolution) referred to this process as a creative revolution, I keep referring to it as an experiment. Being an experiment, there's a pretty fundamental hypothesis that's been under test for the last three months:
+Although my [first post]({% post_url 2014-09-02-force-of-habit-a-100-day-personal-creative-revolution %}) referred to this process as a creative revolution, I keep referring to it as an experiment. Being an experiment, there's a pretty fundamental hypothesis that's been under test for the last three months:
 
 **I can fundamentally change the nature of the work I do and find a viable and sustainable replacement in just over three months**
 
@@ -26,7 +26,7 @@ What's different this time, is that instead of avoiding fear and reaching for th
 A colleague at a startup I once worked for, used to talk me down from a ledge of panic by reminding me of Paul Graham's advice: [just stay alive](http://www.paulgraham.com/die.html). If I'm going to found a startup or explore bleeding edge technology, then cultivating this comfort with uncertainty and risk will be essential.
 
 > Startups rarely die in mid keystroke. So keep typing!
-> -- <cite>Paul Graham</cite>
+> <cite>Paul Graham</cite>
 
 ## Accomplishments
 
@@ -57,7 +57,7 @@ I definitely overreached with my plans and barely touched some things. I failed 
 
 ## Take Aways
 > It does not matter how slowly you go as long as you do not stop.
-> -- <cite>Confucius</cite>
+> <cite>Confucius</cite>
 
 Lot's learned.  More about self than about tech. Here's what I take away:
 

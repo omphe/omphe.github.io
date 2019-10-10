@@ -25,48 +25,52 @@ In this time of postive messaging around gender and codes of conduct, I think we
 ## Web performance assembly song
 	    
 ![Spinner](/assets/images/spinner.gif)
-    The spinner on the page, 
-    Goes round and round, 
-    Round and round,
-    Round and round, 
-    The spinner on the page,
-    Goes round and round,
-    All, day, loooooong. 
+
+The spinner on the page,   
+Goes round and round,  
+Round and round, 
+Round and round,  
+The spinner on the page,  
+Goes round and round,  
+All, day, loooooong.  
 
 
 ![Graph](/assets/images/graph.png)
-    The spike on the graph, 
-    Goes up and down, 
-    Up and down,
-    Up and down,
-    The leader of the team,
-    Goes frown, frown, frown,
-    All, day, loooooong. 
+
+The spike on the graph,   
+Goes up and down,   
+Up and down,  
+Up and down,  
+The leader of the team,  
+Goes frown, frown, frown,  
+All, day, loooooong.   
 
 
 ![Jenkins](/assets/images/jenkins.png)
-    The status of the build, 
-    Goes blink, blink, blink,
-    Blink, blink, blink,
-    Blink, blink, blink,
-    The patience of the team, 
-    Goes shrink, shrink, shrink,
-    All, day, loooooong.
+
+The status of the build,   
+Goes blink, blink, blink,  
+Blink, blink, blink,  
+Blink, blink, blink,  
+The patience of the team,   
+Goes shrink, shrink, shrink,  
+All, day, loooooong.  
 
 
 ![Cloud](/assets/images/cloud.png)
-    The service in the cloud, 
-    Scales up and down,
-    Up and down,
-    Up and down,
-    The prices in the cluster,
-    Go up and down,
-    All, day, loooooong. 
 
+The service in the cloud,   
+Scales up and down,  
+Up and down,  
+Up and down,  
+The prices in the cluster,  
+Go up and down,  
+All, day, loooooong.   
 
 
 ![Spinner](/assets/images/spinner.gif)
-    The spinner on the page,
-    Goes round and round,
-    All, day, loooooong. 
+
+The spinner on the page,  
+Goes round and round,  
+All, day, loooooong.   
 

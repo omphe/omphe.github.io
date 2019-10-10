@@ -16,7 +16,7 @@ Today I completed the Z-Axis of the RepRap 3D Printer and it suddenly looks and 
 
 Look close at today's build video and you'll spot a [quick cameo from the new workshop mascot](http://youtu.be/jIfq0PU0ZvI?t=1m24s), Granite,  and  my big grin when the whole thing bolts together.
 
-{% youtube jIfq0PU0ZvI %}
+{% include youtubePlayer.html id="jIfq0PU0ZvI" %}
 
 # Alfred Maven search
 

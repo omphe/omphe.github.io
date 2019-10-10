@@ -15,5 +15,4 @@ After this morning's epic post, I'm all out of writing juice, and nearly out of 
 Here's a quick timelapse of the pre-assembly build.  A wee bit of soldering, and some cool welding of M3 and M5 hardware into the printed parts. It's shot from above, so you won't be able to spot the big grin on my face.
 
 
-{% youtube qA9PwV8JUyE %}
-
+{% include youtubePlayer.html id="qA9PwV8JUyE" %}

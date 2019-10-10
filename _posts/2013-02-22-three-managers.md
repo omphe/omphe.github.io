@@ -8,6 +8,6 @@ categories:
 
 **The Rookie -** "Why doesn't anything get done?!?"
 
-** The "Expert" -** "Why don't we do the right things?"
+**The "Expert" -** "Why don't we do the right things?"
 
-** The Veteran -** "My word, isn't it amazing anything gets done at all?"
+**The Veteran -** "My word, isn't it amazing anything gets done at all?"

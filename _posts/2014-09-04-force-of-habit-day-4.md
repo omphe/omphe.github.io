@@ -8,17 +8,17 @@ categories:
 - Force of Habit
 ---
 
-#Building the RepRap print bed / Y-Axis
+# Building the RepRap print bed / Y-Axis
 Another stage of the RepRap build done today.  The bed came together and there's another installment of the timelapse series, with some improvements to the field of view.
 
-{% youtube oesObr6IWQE %}
+{% include youtubePlayer.html id="oesObr6IWQE" %}
 
-#The Handyman can!
+# The Handyman can!
 I'm discovering the perils of being present at home, frequently in posession of a wrench or screwdriver.  To the uninitiated, it may appear that I'm capable of basic mechanical tasks and am merely pissing about with technology trash.  While these experiments are **clearly** in the pursuit of a greater calling, some residents of my household have come under the impression that I could be applying my abilities to the repair of various plumbing and electrical faults.
 
 Is there a maker equivalent of the classic geek tshirt?  "No, I will not fix your plumbing!"
 
-#Timelapse building with ffmpeg
+# Timelapse building with ffmpeg
 The timelapses I've been posting are taken with a GoPro Hero3+ taking static shots every 2 seconds.  I post-process all of these images by dumping them to a directory and then running this magical [ffmpeg](https://www.ffmpeg.org/) incantation on it:
 
 

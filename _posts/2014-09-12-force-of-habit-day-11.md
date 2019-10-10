@@ -12,7 +12,7 @@ categories:
 I finished the build of the RepRap 3D printer today.  The whole build took me about 12 hours, although it could easily be done in a day.
 
 
-#Tool instincts
+# Tool instincts
 The last stages of the project involved wiring the print head and getting all the connections and leads patched into the controller.  This printer is run with a [RAMPS 1.4](http://reprap.org/wiki/RAMPS_1.4) controller, which is a printer specific shield sitting atop an Arduino Mega.
 
 
@@ -24,16 +24,16 @@ I found a length of wire/rod on the wall of my workshop, which I'd squirreled aw
 
 ![Wire Puller](/assets/images/wire_puller.jpg)
 
-> Tools like this are never the sort of thing you'd buy in a shop. But they save such huge amounts of hassle and keep a project flowing when it most needs it. {"Fancy and specialised tools are less important to a maker than the instinct to seek and improvise tooling at every opportunity. "}
+Tools like this are never the sort of thing you'd buy in a shop. But they save such huge amounts of hassle and keep a project flowing when it most needs it. Fancy and specialised tools are less important to a maker than the instinct to seek and improvise tooling at every opportunity.
 
 
-#Final Timelapses
+# Final Timelapses
 
 Here's the last three stages of the build for anyone who's been following along from the beginning.  Until I get down to actually printing some objects, these will likely be the last videos for a couple of days.
 
-{% youtube RipToAQS5hU %}
+{% include youtubePlayer.html id="RipToAQS5hU" %}
 
 Granite comes for a visit at 2:10 and starts shredding pipe lagging.
-{% youtube AIuQr-dtqt0 %}
-{% youtube -XftcQRMnHw %}
+{% include youtubePlayer.html id="AIuQr-dtqt0" %}
+{% include youtubePlayer.html id="-XftcQRMnHw" %}
 

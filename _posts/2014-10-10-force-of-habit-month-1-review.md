@@ -39,8 +39,8 @@ The blog has gone quiet over the last couple of weeks, as (shock! horror!) my ti
 Fundamentally, I was working out the installation options for an existing design and prototyping the circuits and cable runs.  Its one thing to read a lot of blog posts and to breadboard some simple projects with the Arduino.  But running 10s of meters of cables and dozens of microcontrollers pushed me out of my comfort zone and gave me the experience that will lead to more ambitious projects of my own.
 
 
-> It was a far cry from middle management in a publishing company or wrangling config management code. Being on a building site in a safety yellow vest and steel cap boots brought me down to earth and gave me a huge respect for the trades men and women who work bloody hard creating the built environment.  {"It was
- refreshing to turn up to work every morning where a crew of professionals consulted an architect's drawing and then got on with making it a reality.  No daily standups, no retrospectives and none of the Agile thumb-sucking that the software world is so preoccupied with."}
+It was a far cry from middle management in a publishing company or wrangling config management code. Being on a building site in a safety yellow vest and steel cap boots brought me down to earth and gave me a huge respect for the trades men and women who work bloody hard creating the built environment.  It was
+ refreshing to turn up to work every morning where a crew of professionals consulted an architect's drawing and then got on with making it a reality.  No daily standups, no retrospectives and none of the Agile thumb-sucking that the software world is so preoccupied with.
 
 
 # The agony of 3Defeat
@@ -65,7 +65,7 @@ As a last resort, I tried a suggestion I found online about resetting the board 
 
 In frustration, I started hitting the reset button every 2 seconds. *BINGO*! The board flashed and then after reinstalling, the bed started heating.
 
-> I was warned a month ago that 3D printing was a slow and frustrating pursuit, particularly if you build your own printer. "Expect lots of frustration and tinkering".  This turned out to be true, but once again the {"troubleshooting has served as an apprenticeship into the workings of the 3D printer and more importantly into the attributes and potential of the materials it consumes and creates"}.
+I was warned a month ago that 3D printing was a slow and frustrating pursuit, particularly if you build your own printer. "Expect lots of frustration and tinkering".  This turned out to be true, but once again the troubleshooting has served as an apprenticeship into the workings of the 3D printer and more importantly into the attributes and potential of the materials it consumes and creates.
 
 
 I'm now getting awesome prints with consistent results and am reinspired with the printing.  The magic combination appears to be:
@@ -82,8 +82,7 @@ In starting this project, I wanted to see if I could find an alternative to the 
 
 All of the options have some great features, but tended to require expensive licensing to unlock some of the more fundamental features I'd need, like search integrations and server clustering.
 
-
-> In the end, I've pretty much settled into building the site with [Drupal 7](https://www.drupal.org/drupal-7.0).  Drupal 8 is now in [beta](https://www.drupal.org/drupal-8.0    ), but will need a few months of evolving security patches and then a big catchup of 3rd party modules.  {"I want to focus on building community and content and not the underlying platform, so settling on a tool that I'm disinclined to tinker with will help keep me stay loyal to the end-user and not my technical curiosity."}
+In the end, I've pretty much settled into building the site with [Drupal 7](https://www.drupal.org/drupal-7.0).  Drupal 8 is now in [beta](https://www.drupal.org/drupal-8.0    ), but will need a few months of evolving security patches and then a big catchup of 3rd party modules.  I want to focus on building community and content and not the underlying platform, so settling on a tool that I'm disinclined to tinker with will help keep me stay loyal to the end-user and not my technical curiosity.
 
 The best part of the exploration has been using [Docker](https://docker.com/) containers to quickly pull together hosting environments that I could try the various options on. I'm still coming up to speed with the russian doll abstractions that Docker provides, but it is an exciting technology and likely to sit alongside [Ansible](http://www.ansible.com/home) in my new quiver of hosting tools.
 
