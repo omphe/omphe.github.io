@@ -64,7 +64,7 @@ Preparing a home for a trip this long is basically moving house.  I have Konmari
 
 Between bouts of tidying and packing, we're all cramming in enough Spanish to politely get us around and we'll be doing some language schooling in some of the destinations.
 
-In the next few days, we'll write to Santa to request an extension to Yuletide gifts.  We'll be asking to delay Christmas until Easter, when we'll pack in a whole celebration of birth, death, and resurrection.  The kids are calling this **Jesus Recycling**.  
+In the next few days, we'll write to Santa to request an extension to Yuletide gifts.  We'll be asking to delay Christmas until Easter, when we'll pack in a whole celebration of birth, death, and renewal.  The kids are calling this **Jesus Recycling Day**.
 
 ## What will you take?
 
