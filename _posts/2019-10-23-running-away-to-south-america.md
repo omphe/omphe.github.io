@@ -3,9 +3,7 @@ title: "Why I am running away to South America"
 date: 2019-10-23 10:44:00 +0000
 comments: true
 categories: 
-  - Adventure
   - LatinAmericaAdventure
-  - LatAmAdventure
 ---
 
 ![Books and Maps of Latin America](/assets/images/books-maps-planning.jpg)
