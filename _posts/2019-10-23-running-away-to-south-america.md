@@ -1,6 +1,7 @@
 ---
 title: "Why I am running away to South America"
 date: 2019-10-23 10:44:00 +0000
+excerpt: One week from today, I will be on my way to South America.  I'm leaving the UK for the winter, like a bird chasing the sun across the sea to warmer lands. 
 comments: true
 categories: 
   - LatinAmericaAdventure
