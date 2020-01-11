@@ -176,7 +176,7 @@ On arrival in Aquas Calientes, we spent an unremarkable night in a Supertramp ho
 
 I find it hard to describe how it felt to be somewhere I'd waited a lifetime to see. The wonder of the place is something more than the collections of temples and dwellings.  The site is nearly 600 years old and the ruins _are_ painstakingly preserved and restored, but by historical standards, its fairly recent. I felt churlish about not being impressed with the antiquity. In the context of the history of its peoples and Spanish colonialism, the fact that anything remains of the place at all is a wonder. 
 
-The secret of the city's preservation and, in my opinion, is its location.  The city perches high above a  huge oxbow in the Urubabma river with perfect sitelines to the surrounding mountain pantheon as well as any intruders of a more mortal nature below.  On this sacred promontory, I felt as though I were standing astride the clouds and that is what took away my breath and my sense of time.
+The secret of the city's preservation and, in my opinion, its grandeur is its location.  The city perches high above a  huge oxbow in the Urubabma river with perfect sitelines to the surrounding mountain pantheon as well as any intruders of a more mortal nature below.  On this sacred promontory, I felt as though I were standing astride the clouds and that is what took away my breath and my sense of time.
 
 {% include gallery caption="Machu Picchu" %}
 
