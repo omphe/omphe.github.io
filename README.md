@@ -11,3 +11,17 @@ To create images appropriate for the blog:
 ## Renaming all file extensions to lowercase
 
 `rename 's/\.JPG$/.jpg/' *.JPG`
+
+## Upgrading
+
+To update everything, from the top of the project directory:
+
+```bash
+bundle update
+```
+
+Or just to upgrade github-pages:
+
+```bash
+bundle update github-pages
+```
